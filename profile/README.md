@@ -1,3 +1,4 @@
-![default](https://user-images.githubusercontent.com/69617058/187056082-cd5a5a5a-6898-42ad-b208-92976eeae84d.png)
+![web-banner](https://user-images.githubusercontent.com/69617058/187058478-293060bb-8142-4bd7-a7ce-5d3ea61ada77.png)
+
 ## Free telegram bot to get current weather in selected place
 # [Contact](https://t.me/owm_bot)
